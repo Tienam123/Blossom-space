@@ -90,7 +90,6 @@ nav {
   @apply py-20;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), /* Полупрозрачный градиент */
       url('https://blossomthemesdemo.com/beauty-salon-lite/wp-content/uploads/sites/172/2022/09/StockSnap_VH22RVC5UT.jpg') no-repeat center center;
-  background-position: 50% 50%;
   background-size: cover;
 }
 </style>
